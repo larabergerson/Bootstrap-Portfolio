@@ -1,0 +1,46 @@
+
+
+.container-fluid{
+    /* border: 2px solid black; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;                      
+    height: auto;
+    width: auto;
+    padding: 20px;
+}
+
+.row{
+    margin: auto;
+    border-bottom: 2px solid grey;
+    /* line-height: 20px; */
+    padding: 50px;
+    text-align: auto;
+}
+
+.col-3{
+    box-shadow: 20px;
+}
+
+.navbar-inverse{
+    border: 2px solid gray;
+    padding: -50px;
+    height: 70px;
+    
+}
+/* }
+
+.panel{
+    margin-top: 0
+    position: sticky;
+    width: 100%; */
+
+
+}
+/* .bototomRow{
+    border: 2px solid grey;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+
+} */
+
